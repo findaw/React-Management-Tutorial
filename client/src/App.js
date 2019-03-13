@@ -88,6 +88,7 @@ class App extends Component {
             </TableBody>
           </Table>
         </Paper>
+        <br/>
         <CustomerAdd stateRefresh={this.stateRefresh} />
       </div>
     );
